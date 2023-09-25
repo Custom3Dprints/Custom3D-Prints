@@ -229,6 +229,10 @@
     -moz-text-fill-color: transparent;
 }
 
+.main__content a{
+    color: #fff;
+    text-decoration: none;
+}
 
 .main__content p{
     margin-top: 1rem;
