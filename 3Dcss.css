@@ -229,20 +229,17 @@
     -moz-text-fill-color: transparent;
 }
 
-.main__content a{
-    color: #fff;
-    text-decoration: none;
-}
 
 .main__content p{
     margin-top: 1rem;
-    font-size: 1.5rem;
+    font-size: 1.5 rem;
     font-weight: 700;
     color: #fff;
 }
 
 .main__content a{
     color: #fff;
+    text-decoration: none;
 }
 
 .main__img--container{
