@@ -232,8 +232,12 @@
 
 .main__content p{
     margin-top: 1rem;
-    font-size: 1rem;
+    font-size: 1.5rem;
     font-weight: 700;
+    color: #fff;
+}
+
+.main__content a{
     color: #fff;
 }
 
